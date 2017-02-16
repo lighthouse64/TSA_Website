@@ -35,8 +35,28 @@
 	A:
 	</p>
 	</div>
+	    <div class ="container">
+		<p>Q: </p>
+		<p>A:What will people do once they reach Mars? </p>
+	    </div>
 	    <div class="container">
 		    <p>Q: What about Mars interests you?</p>
+		    <p>A: </p>
+	</div>
+	<div class="container">
+		    <p>Q: How do you believe living on Mars will affect astronauts?</p>
+		    <p>A: </p>
+	</div>
+	<div class="container">
+		    <p>Q: How do you plan to supply the crew?</p>
+		    <p>A: </p>
+	</div>
+	<div class="container">
+		    <p>Q: What type of training will be required to explore Mars?</p>
+		    <p>A: </p>
+	</div>
+	<div class="container">
+		    <p>Q: How will you prepare for accidents that could occur on Mars?</p>
 		    <p>A: </p>
 	</div>
    <?php include("../../../includes/footer.php"); ?> 
