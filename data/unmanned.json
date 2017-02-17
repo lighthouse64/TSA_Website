@@ -49,7 +49,7 @@
 	{
 		"name":"InSight",
 		"description":"<p>A proposed mission for the rover, InSight is planned to occur in 2018.  Its mission is to discover the history of mars and study the tectonic activity, as well as the impact of meteors on the planet by investigating through drilling, since Mars seems to have retained history in its crust.  The rover will use its seismometer and heat probe to gather data, as well as carry a camera to look at the environment around the rover.</p>",
-		"image":"/images/Insight.jpg",
+		"image":"/images/insight.jpg",
 		"caption":"A picture of InSight"
 	}
 ]
