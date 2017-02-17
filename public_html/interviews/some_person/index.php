@@ -24,8 +24,8 @@
 			<h2>
 				First Interview
 			</h2>
-			<p>We will eventually have a video interview, with an interactive transcript beside/below it.</p>
 		</div>
+		<p>We will eventually have a video interview, with an interactive transcript beside/below it.</p>
 	</div>
    <?php include("../../../includes/footer.php"); ?> 
     </body>
