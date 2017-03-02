@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
 		<!-- 
 		*******************************
@@ -13,58 +13,69 @@
 		*
 		*******************************
 		-->
-
 		<meta charset="utf-8">
 		<title>Mission To Mars</title>	
-		<?php include("../../includes/head.php"); ?>
+<?php include("../../includes/head.php"); ?>
 		<style type="text/css">
-			figure {
-				width: 100%;
-				background-color: white;
-				border-radius: 5px;
-				padding: 8px;
-				margin-bottom: 10px;
+			div.panel {
+				color: black;
+			}
+			div.vehicle-description {
+				margin-top: 1%;
 			}
 			@media (min-width: 768px) {
-				figure {
-					width: 47.5%;
-					float: none;
+				div.panel-body figure {
+					width: 30%;
+					float: left;
+				}
+				div.panel-body div.vehicle-description {
+					width: 65%;
+					float: right;
+					margin-top: 0px;
 				}
 			}
 		</style>
+				<script type="text/javascript">
+		<!--
+			$(function()
+			{
+				var data = <?php include("../../data/vehicles.json"); ?>;
+				$.each(data, function(index, event)
+				{
+					var name = event.name;
+					var description = event.description;
+					var image = event.image;
+					var caption = event.caption;
+					var displayString = "<div class=\"panel panel-default\"><div class=\"panel-heading\">";
+					displayString += name;
+					displayString += "</div><div class=\"panel-body\"><figure><img class=\"img-responsive\" src=\"";
+					displayString += image;
+					displayString += "\" /><figcaption>";
+					displayString += caption;
+					displayString += "</figcaption></figure><div class=\"vehicle-description\">";
+					displayString += description;
+					displayString += "</div></div></div>";
+					$(".vehicles").append(displayString);
+				});
+			});
+		//-->
+		</script>
     </head>
     <body>
-	<?php include("../../includes/navbar.php"); ?>
+<?php include("../../includes/navbar.php"); ?>
 	<div class="container">
 		<div class="page-header">
 			<h2>
-				Evolution of Space Vehicles
+				Space Vehicles
 			</h2>
 		</div>
-		<p>Space vehicles are, obviously, a key part of space exploration. Without these vehicles, space exploration would not be possible. 
-		This section will outline the accomplishments and contributions to space exploration of several key space vehicles. It is divided into two 
-		parts: manned and unmanned.</p>
-		<figure class="vehicle-page" style="float: left;">
-			<img class="img-responsive" src="/images/iss.jpg">
-			<figcaption>
-				The International Space Station (ISS)
-				<div class="image-attribution">
-					By NASA/Crew of STS-132 [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AInternational_Space_Station_after_undocking_of_STS-132.jpg" target="_blank">via Wikimedia Commons</a>
-				</div>
-				<p><a href="/vehicles/manned" role="button" class="btn btn-primary">Learn more about manned space vehicles</a></p>
-			</figcaption>
-		</figure>
-		<figure class="vehicle-page" style="float: right;">
-			<img class="img-responsive" src="/images/newhorizons.jpg">
-			<figcaption>
-				An artist's view of the New Horizons spacecraft passing by Pluto and its moon Charon. 
-				<div class="image-attribution">
-					By NASA/JHU APL/SwRI/Steve Gribben [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3A15-011a-NewHorizons-PlutoFlyby-ArtistConcept-14July2015-20150115.jpg" target="_blank">via Wikimedia Commons</a>
-				</div>
-				<p><a href="/vehicles/unmanned" role="button" class="btn btn-primary">Learn more about unmanned space vehicles</a></p>
-			</figcaption>
-		</figure>
+		<p>
+		Ever since the launch of Sputnik, space vehicles have constantly been evolving.  This page outlines some major changes that have happened over time.	
+		</p>
+		<div class="vehicles">
+		</div>
+	<p><h2>Cited Sources</h2></p>
 	</div>
-	<?php include("../../includes/footer.php"); ?>    
+   <?php include("../../includes/footer.php"); ?> 
     </body>
 </html>
