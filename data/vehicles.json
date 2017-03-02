@@ -29,10 +29,10 @@
 		"caption":"An image of Luna 16 flying in space"
 	},
 	{
-		"name":"Hubble Telescope",
-		"description":"<p>Hubble, a complex camera, launched on April 24, 1990 as an advanced photographic telescope to take high quality pictures of many star formations, comets, and nebulae to escape earth's blurring atmosphere.  It takes photos using infared and ultraviolet sensors from the exosphere, which does not have many contaminants.  </p><p>To carry all of these sensors, Hubble needs considerable size, which is why it measures 43 feet in length and 14 feet in width.  Not only does it hold a multitude of sensors, but it has two mirrors and support systems that help the telescope focus.  Finally, the essential antenna allows the telescope to keep in constant communication with NASA, so that it can send back data.</p>",
-		"image":"/images/hubble.jpg",
-		"caption":"A diagram of the Hubble Telescope"
+		"name":"Mars Sojourner Rover and Pathfinder Lander",
+		"description":"<p>	The Mars Pathfinder launched on December 4, 1996, carrying the Sojourner Rover within it.  It's objective was to show that a cost effective mission could be sucessful by only requiring $150 million, after the Viking Mission consumed a much larger sum of money, as well as show that microrovers can be useful.  It had scientific goals of obtaining information on the geology and environment of Mars.</p><p>Many discoveries were made to complete its objective.  In geology, the elemental composition of the minerals on mars were discovered with Oxygen, Silicon, and Iron being the most common.  Temperatures, wind speeds, and air pressure were recorded. Other phenomenon, such as dust tornadoes and water-ice clouds also were observed.</p><p>Together, the Mars Sojourner Rover and Pathfinder Lander made useful discoveries and observations.  Its mission to prove microrovers usefulness and attempt at a cost effective mission were also sucessful.</p>",
+		"image":"/images/Pathfinder.gif",
+		"caption":"An image of the Sojourner Rover moving"
 	},
 	{
 		"name":"Mars Odyssey",

@@ -22,10 +22,10 @@
 	<div class="container">
 		<div class="page-header">
 			<h2>
-				Interview Two
+				Second Interview
 			</h2>
 		</div>
-		<p>This will be the second interview
+		<p>We will eventually have a video interview, with an interactive transcript beside/below it.</p>
 	</div>
    <?php include("../../../includes/footer.php"); ?> 
     </body>
