@@ -37,6 +37,7 @@
 			<li>How do you believe colinization of Mars will affect its environment?</li>
 			<li>How will the exploration of Mars benefit society?</li>
 			<li>What obstacles does the mission to mars face?</li>
+			<li>What would you consider some of the most important explorations of Mars?</li>
 		</ol>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
