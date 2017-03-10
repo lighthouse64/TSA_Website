@@ -33,8 +33,8 @@
 		<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-				<li>"Aerospace, Aviation & Defense Jobs." American Institute of Physics, 7 Aug. 2014, <a href="www.aip.org/jobs/profiles/aerospace-aviation-defense-jobs">www.aip.org/jobs/profiles/aerospace-aviation-defense-jobs</a>. Accessed 9 Mar. 2017.</li>
-				<li>"Summary." U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 17 Dec. 2015, <a href="www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm">www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</a>. Accessed 9 Mar. 2017.</li>
+				<li>"Aerospace, Aviation & Defense Jobs." American Institute of Physics, 7 Aug. 2014, <a href="http://www.aip.org/jobs/profiles/aerospace-aviation-defense-jobs">www.aip.org/jobs/profiles/aerospace-aviation-defense-jobs</a>. Accessed 9 Mar. 2017.</li>
+				<li>"Summary." U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 17 Dec. 2015, <a href="http://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm">www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm</a>. Accessed 9 Mar. 2017.</li>
 			</ul>
 		</section>
 	</div>
