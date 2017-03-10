@@ -67,10 +67,10 @@
 			<p>With NASA's renewed focus on research and technology development, the future is bright! I look forward to helping NASA develop even more groundbreaking technologies to enhance the future for all of us. We need young people who are interested in math, science, and engineering to help us with new and exciting space missions. It will be a thrilling journey!”</p>
 		</section>
 		<section>
-			<header><h3>Sources</h3></header>
+			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-				<li><a href="https://www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html" target="_blank">https://www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html</a></li>
-				<li><a href="http://www.cheminst.ca/magazine/feature-story/chemistry-mars" target="_blank">http://www.cheminst.ca/magazine/feature-story/chemistry-mars</a></li>
+				<li>“Chemistry on Mars” Chemistry on Mars | The Chemical Institute of Canada, Chemical Institute of Canada, 16 Aug. 2013, <a href="www.cheminst.ca/magazine/feature-story/chemistry-mars">www.cheminst.ca/magazine/feature-story/chemistry-mars</a>. Accessed 9 Mar. 2017.</li>
+				<li>Dunbar, Brian. "Don Frazier: Chemist." NASA, NASA, 7 July 2016, <a href="www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html">www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html</a>. Accessed 9 Mar. 2017.</li>
 			</ul>
 		</section>
 	</div>

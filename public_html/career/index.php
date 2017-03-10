@@ -112,7 +112,7 @@
 					</figcaption>
 				</figure>
 				<div class="career-description">Physicists determine how to properly maneuver a spacecraft to its designated target. 
-				<br><a href="/career/engineer" role="button" class="btn btn-primary">READ MORE</a></div>
+				<br><a href="/career/physicist" role="button" class="btn btn-primary">READ MORE</a></div>
 			</div>
 		</div>
 	</div>
