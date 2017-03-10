@@ -57,7 +57,7 @@
 			</figcaption>
 		</figure>
 		<section>
-			<header><h3>Words From A Chemist</h3></header>
+			<header><h3>Words From A Chemist (from <a href="www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html" style="color: white;">www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html</a>)</h3></header>
 			<p>“One exciting technology I helped create is an energy source that can be printed on paper using special ink. NASA can use this energy-efficient light on space missions or even to power space vehicles. Tiny molecules printed within the ink work as semiconductors, or materials that allow energy to be transferred through them. These devices are lightweight, very affordable, and generate little heat. Because all the energy is stored in the ink, the light source can be printed on normal paper, opening up all sorts of new possibilities: providing light on space missions, energy for solar cells to power entire vehicles, or even light for your home!</p>
 			<p>The challenge of discovering new things is the most exciting part of my job. I get to advise NASA about which technologies might be the most helpful for the space program. I also work with private companies to help bring unique technologies to NASA.</p>
 			<p>I was curious about how things around me worked from an early age. I grew up in a neighborhood full of distracting influences. Because I wanted to distance myself from these influences and be successful in life, I joined the Army and worked as a meteorological observer. That experience deepened my interest in science and discovery.</p>
@@ -69,8 +69,8 @@
 		<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-				<li>“Chemistry on Mars” Chemistry on Mars | The Chemical Institute of Canada, Chemical Institute of Canada, 16 Aug. 2013, <a href="www.cheminst.ca/magazine/feature-story/chemistry-mars">www.cheminst.ca/magazine/feature-story/chemistry-mars</a>. Accessed 9 Mar. 2017.</li>
-				<li>Dunbar, Brian. "Don Frazier: Chemist." NASA, NASA, 7 July 2016, <a href="www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html">www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html</a>. Accessed 9 Mar. 2017.</li>
+				<li>“Chemistry on Mars” Chemistry on Mars | The Chemical Institute of Canada, Chemical Institute of Canada, 16 Aug. 2013, <a href="http://www.cheminst.ca/magazine/feature-story/chemistry-mars">www.cheminst.ca/magazine/feature-story/chemistry-mars</a>. Accessed 9 Mar. 2017.</li>
+				<li>Dunbar, Brian. "Don Frazier: Chemist." NASA, NASA, 7 July 2016, <a href="http://www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html">www.nasa.gov/centers/marshall/about/marshallfaces/frazier.html</a>. Accessed 9 Mar. 2017.</li>
 			</ul>
 		</section>
 	</div>

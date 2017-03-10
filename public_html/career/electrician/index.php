@@ -33,7 +33,7 @@
 		<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-				<li>"Summary." U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 17 Dec. 2015, <a href="www.bls.gov/ooh/construction-and-extraction/electricians.htm">www.bls.gov/ooh/construction-and-extraction/electricians.htm</a>. Accessed 9 Mar. 2017.</li>
+				<li>"Summary." U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 17 Dec. 2015, <a href="http://www.bls.gov/ooh/construction-and-extraction/electricians.htm">www.bls.gov/ooh/construction-and-extraction/electricians.htm</a>. Accessed 9 Mar. 2017.</li>
 			</ul>
 		</section>
 	</div>
