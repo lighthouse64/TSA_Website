@@ -24,6 +24,7 @@
 			<h2>
 				Electricians
 			</h2>
+			Benjamin Miller
 		</div>
 		<section>
 			<p>Electricians working with space programs are like the omnivores of Earth. You can find them both on a space shuttle and with Mission control. In mission to mars, they would be vital components, providing the backbone needed to create the complex electrical circuits needed on a space shuttle and an extraterrestrial shelter, but also as part of the team that inhabits that space, fixing any problems that might arise. Without them on board, any problems with the intricate parts of the missions electronics could turn deadly in a moment.</p>

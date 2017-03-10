@@ -257,6 +257,7 @@
 			<h2>
 				The Privatization of the Space Program and the United States's Space Program
 			</h2>
+			Darin Mao
 		</div>
 		<img src="/images/loading.gif" class="timeline-loading img-responsive">
 		<ul class="timeline">

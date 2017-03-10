@@ -24,6 +24,7 @@
 			<h2>
 				Physicists
 			</h2>
+			Benjamin Miller
 		</div>
 		<section>
 			<p>Physicists, or rather, as they’re called in the industry, astrophysicists, are a highly essential part of any space mission, even though they don’t take part in it. There main job, in a potential attempt to reach Mars, would likely be in determining things like how much fuel would be needed to reach the red planet, or the forces that would likely be exerted on any structure or being that came to exist on the planet.</p>

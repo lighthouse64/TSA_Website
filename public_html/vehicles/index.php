@@ -68,6 +68,7 @@
 			<h2>
 				Space Vehicles
 			</h2>
+			Ryan Kim
 		</div>
 		<p>
 		Ever since the launch of Sputnik, space vehicles have constantly been evolving.  This page outlines some major changes that have happened over time.	

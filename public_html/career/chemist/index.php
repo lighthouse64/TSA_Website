@@ -39,6 +39,7 @@
 			<h2>
 				Chemists
 			</h2>
+			Benjamin Miller
 		</div>
 		<p>Chemists find new ways to make space exploration cheaper and more efficient.</p>
 		<section>

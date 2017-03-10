@@ -42,6 +42,7 @@
 			<h2>
 				Privatization
 			</h2>
+			Benjamin Miller
 		</div>
 		<p>Every since NASA has had its budget cut, it has begun to leave the picture. China is a little too late to the party (they first got a man into space
 		in 2003), and the European Space Agency, well, European governments have more to worry about than space. In fact, that’s something that almost every 
