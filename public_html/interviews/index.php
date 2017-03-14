@@ -38,6 +38,7 @@
 			<li>How will the exploration of Mars benefit society?</li>
 			<li>What obstacles does the mission to mars face?</li>
 			<li>What would you consider some of the most important explorations of Mars?</li>
+			<li></li>
 		</ol>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
