@@ -33,7 +33,7 @@
 			<ol>
 				<li>
 					<h4>Survival of mankind</h4>
-					<p>Someday in the future, the human population may not be able to sustain itself with the natural resources and area available on Earth. The nuclear weapons we have on Earth could also be a large threat to humanity as a whole. On top of all of this, natural disasters such as asteroid impacts and supervolcanoes could destroy the entire planet’s population. Putting humans on Mars would ensure the survival of humankind, even if Earth becomes unsuitable for life. As SpaceX CEO Elon Musk says, "Humans need to be a multiplanet species."</p>
+					<p>Someday in the future, the human population may not be able to sustain itself with the natural resources and area available on Earth. The nuclear weapons we have on Earth could also be a large threat to humanity as a whole. On top of all of this, natural disasters such as asteroid impacts and supervolcanoes could destroy the entire planet's population. Putting humans on Mars would ensure the survival of humankind, even if Earth becomes unsuitable for life. As SpaceX CEO Elon Musk says, "Humans need to be a multiplanet species."</p>
 				</li>
 				<li>
 					<h4>Discovering new life forms</h4>
@@ -41,7 +41,7 @@
 				</li>
 				<li>
 					<h4>It will drive innovation</h4>
-					<p>Part of NASA’s influence lies completely outside of the space program. For example, in the early years of the Hubble Telescope, blurry pictures were taken due to a flaw in the telescope itself. Although the problem was eventually fixed, NASA tried to make use of the blurry images. The algorithms they developed to extract data from these images was applied to X-ray images, and was used to detect breast cancer. The technological advances required to put humans on Mars will no doubt be useful in other fields as well, and improve life on Earth as well as on Mars.</p>
+					<p>Part of NASA's influence lies completely outside of the space program. For example, in the early years of the Hubble Telescope, blurry pictures were taken due to a flaw in the telescope itself. Although the problem was eventually fixed, NASA tried to make use of the blurry images. The algorithms they developed to extract data from these images was applied to X-ray images, and was used to detect breast cancer. The technological advances required to put humans on Mars will no doubt be useful in other fields as well, and improve life on Earth as well as on Mars.</p>
 				</li>
 				<li>
 					<h4>Natural resources</h4>
@@ -74,10 +74,10 @@
 		<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-				<li>Briers, Demarcus. “Pros and Cons of a Manned Mission to Mars.” DBriers.com, 24 Apr. 2012, <a href="http://www.dbriers.com/tutorials/2011/11/pros-cons-manned-mission-to-mars/">www.dbriers.com/tutorials/2011/11/pros-cons-manned-mission-to-mars/</a>. Accessed 14 Mar. 2017.</li>
-				<li>Orwig, Jessica. “5 Undeniable Reasons Humans Need to Colonize Mars - Even Though It's Going to Cost Billions.” Business Insider, Business Insider, 21 Apr. 2015, <a href="http://www.businessinsider.com/5-undeniable-reasons-why-humans-should-go-to-mars-2015-4">www.businessinsider.com/5-undeniable-reasons-why-humans-should-go-to-mars-2015-4</a>. Accessed 14 Mar. 2017.</li>
-				<li>“Robonaut.” NASA, NASA, <a href="http://robonaut.jsc.nasa.gov/R2/">robonaut.jsc.nasa.gov/R2/</a>. Accessed 14 Mar. 2017.</li>
-				<li>Wiles, Jennifer. “Why We Explore.” NASA, NASA, 13 June 2013, <a href="http://www.nasa.gov/exploration/whyweexplore/why_we_explore_main.html#.WMiUs4WcHIU">www.nasa.gov/exploration/whyweexplore/why_we_explore_main.html#.WMiUs4WcHIU</a>. Accessed 14 Mar. 2017.</li>
+				<li>Briers, Demarcus. "Pros and Cons of a Manned Mission to Mars." DBriers.com, 24 Apr. 2012, <a href="http://www.dbriers.com/tutorials/2011/11/pros-cons-manned-mission-to-mars/">www.dbriers.com/tutorials/2011/11/pros-cons-manned-mission-to-mars/</a>. Accessed 14 Mar. 2017.</li>
+				<li>Orwig, Jessica. "5 Undeniable Reasons Humans Need to Colonize Mars - Even Though It's Going to Cost Billions." Business Insider, Business Insider, 21 Apr. 2015, <a href="http://www.businessinsider.com/5-undeniable-reasons-why-humans-should-go-to-mars-2015-4">www.businessinsider.com/5-undeniable-reasons-why-humans-should-go-to-mars-2015-4</a>. Accessed 14 Mar. 2017.</li>
+				<li>"Robonaut." NASA, NASA, <a href="http://robonaut.jsc.nasa.gov/R2/">robonaut.jsc.nasa.gov/R2/</a>. Accessed 14 Mar. 2017.</li>
+				<li>Wiles, Jennifer. "Why We Explore." NASA, NASA, 13 June 2013, <a href="http://www.nasa.gov/exploration/whyweexplore/why_we_explore_main.html#.WMiUs4WcHIU">www.nasa.gov/exploration/whyweexplore/why_we_explore_main.html#.WMiUs4WcHIU</a>. Accessed 14 Mar. 2017.</li>
 			</ul>
 		</section>
 	</div>
