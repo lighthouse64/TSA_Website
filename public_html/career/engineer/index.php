@@ -24,6 +24,7 @@
 			<h2>
 				Engineers
 			</h2>
+			Benjamin Miller
 		</div>
 		<section>
 			<p>Aerospace Engineers are a crucial part of any mission to another planet. Like chemists and physicists, they don't need to actually be on any of the spacecraft, but rather in the control room, ready to remedy problems as they arise. Their job is to design some of the most important tools of any inter-planetary exploration: The space ship itself, the suits the astronauts use, and all of the other odds and ends that you use on any space mission. The thing is, they have to design everything with a unique concept: it has to be able to		withstand the harsh conditions of the red planet.</p>

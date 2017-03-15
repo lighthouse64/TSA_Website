@@ -39,6 +39,7 @@
 			<h2>
 				Astronauts
 			</h2>
+			Darin Mao
 		</div>
 		<p>Among all of the people involved in space exploration, astronauts are the most well known. The reason for this is quite obvious; astronauts are the people who actually go to space. </p>
 		<figure>

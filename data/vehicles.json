@@ -30,9 +30,9 @@
 	},
 	{
 		"name":"Mars Sojourner Rover and Pathfinder Lander",
-		"description":"<p>	The Mars Pathfinder launched on December 4, 1996, carrying the Sojourner Rover within it.  It's objective was to show that a cost effective mission could be sucessful by only requiring $150 million, after the Viking Mission consumed a much larger sum of money, as well as show that microrovers can be useful.  It had scientific goals of obtaining information on the geology and environment of Mars.</p><p>Many discoveries were made to complete its objective.  In geology, the elemental composition of the minerals on mars were discovered with Oxygen, Silicon, and Iron being the most common.  Temperatures, wind speeds, and air pressure were recorded. Other phenomenon, such as dust tornadoes and water-ice clouds also were observed.</p><p>Together, the Mars Sojourner Rover and Pathfinder Lander made useful discoveries and observations.  Its mission to prove microrovers usefulness and attempt at a cost effective mission were also sucessful.</p>",
-		"image":"/images/Pathfinder.gif",
-		"caption":"An image of the Sojourner Rover moving"
+		"description":"<p>The Mars Pathfinder launched on December 4, 1996, carrying the Sojourner Rover within it.  It's objective was to show that a cost effective mission could be sucessful by only requiring $150 million, after the Viking Mission consumed a much larger sum of money, as well as show that microrovers can be useful.  It had scientific goals of obtaining information on the geology and environment of Mars.</p><p>Many discoveries were made to complete its objective.  In geology, the elemental composition of the minerals on mars were discovered with Oxygen, Silicon, and Iron being the most common.  Temperatures, wind speeds, and air pressure were recorded. Other phenomenon, such as dust tornadoes and water-ice clouds also were observed.</p><p>Together, the Mars Sojourner Rover and Pathfinder Lander made useful discoveries and observations.  Its mission to prove microrovers usefulness and attempt at a cost effective mission were also sucessful.</p>",
+		"image":"/images/sojourner.jpg",
+		"caption":"An image of the Sojourner Rover"
 	},
 	{
 		"name":"Mars Odyssey",
@@ -49,7 +49,7 @@
 	{
 		"name":"InSight",
 		"description":"<p>A proposed mission for the rover, InSight is planned to occur in 2018.  Its mission is to discover the history of mars and study the tectonic activity, as well as the impact of meteors on the planet by investigating through drilling, since Mars seems to have retained history in its crust.  The rover will use its seismometer and heat probe to gather data, as well as carry a camera to look at the environment around the rover.</p>",
-		"image":"",
+		"image":"/images/insight.jpg",
 		"caption":"A picture of InSight"
 	}
 ]
