@@ -46,13 +46,16 @@
 					var description = event.description;
 					var image = event.image;
 					var caption = event.caption;
+					var attribution = event.image-citation;
 					var displayString = "<div class=\"panel panel-default\"><div class=\"panel-heading\">";
 					displayString += name;
 					displayString += "</div><div class=\"panel-body\"><figure><img class=\"img-responsive\" src=\"";
 					displayString += image;
 					displayString += "\" /><figcaption>";
 					displayString += caption;
-					displayString += "</figcaption></figure><div class=\"vehicle-description\">";
+					displayString += "<div class=\"image-attribution\">";
+					displayString += attribution;
+					displayString += "</div></figcaption></figure><div class=\"vehicle-description\">";
 					displayString += description;
 					displayString += "</div></div></div>";
 					$(".vehicles").append(displayString);
