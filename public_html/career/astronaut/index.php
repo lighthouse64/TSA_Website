@@ -39,6 +39,7 @@
 			<h2>
 				Astronauts
 			</h2>
+			Darin Mao
 		</div>
 		<p>Among all of the people involved in space exploration, astronauts are the most well known. The reason for this is quite obvious; astronauts are the people who actually go to space. </p>
 		<figure>
@@ -93,10 +94,10 @@
 			<p>Toilets have vacuums, that suck waste into the commode. This is done to keep waste from floating around. That would not be a pleasant experience. </p>
 		</section>
 		<section>
-			<header><h3>Sources</h3></header>
+			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-				<li><a href="https://www.nasa.gov/audience/foreducators/stem-on-station/dayinthelife#.VD_TifldU1I" target="_blank">https://www.nasa.gov/audience/foreducators/stem-on-station/dayinthelife#.VD_TifldU1I</a></li>
-				<li><a href="https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-spacesuit-58.html" target="_blank">https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-spacesuit-58.html</a></li>
+				<li>Dunbar, Brian. "What Is a Spacesuit?" NASA, NASA, 27 May 2015, <a href="http://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-spacesuit-58.html">www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-spacesuit-58.html</a>. Accessed 9 Mar. 2017.</li>
+				<li>May, Sandra. "A Day in the Life Aboard the International Space Station." NASA, NASA, 5 June 2015, <a href="http://www.nasa.gov/audience/foreducators/stem-on-station/dayinthelife#.VD_TifldU1I">www.nasa.gov/audience/foreducators/stem-on-station/dayinthelife#.VD_TifldU1I</a>. Accessed 9 Mar. 2017.</li>
 			</ul>
 		</section>
 	</div>

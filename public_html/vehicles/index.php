@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<style>
+#bld{
+	font-weight:bold;
+	}	
+</style>	
 <html>
     <head>
 		<!-- 
@@ -71,14 +76,19 @@
 			<h2>
 				Space Vehicles
 			</h2>
+			Ryan Kim
 		</div>
 		<p>
 		Ever since the launch of Sputnik, space vehicles have constantly been evolving.  This page outlines some major changes that have happened over time.	
 		</p>
 		<div class="vehicles">
 		</div>
-	<p><h2>Cited Sources</h2></p>
-	</div>
+	<div class="panel-heading"><p><h2>Cited Sources (MLA 8)</h2></p></div>
+	    <div class="panel-body">
+		  <p id ="bld">Sputnik</p>
+		    <p>Garber, Steve. “Sputnik and The Dawn of the Space Age.” NASA, NASA, 10 Oct. 2007, history.nasa.gov/sputnik/. Accessed 16 Mar. 2017. </p>
+	    
+	    </div>
    <?php include("../../includes/footer.php"); ?> 
     </body>
 </html>

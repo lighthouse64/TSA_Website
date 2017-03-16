@@ -197,14 +197,7 @@
 					var image = event.image;
 					var caption = event.caption;
 					var attribution = event.attribution;
-					if (event.links != "") 
-					{
-						var links = event.links.split(/, ?/g);
-					}
-					else 
-					{
-						var links = [];
-					}
+					var links = event.links;
 					var displayString = "";
 					if (date.getFullYear() > lastYear)
 					{
@@ -245,11 +238,9 @@
 					displayString += "<ul class=\"timeline-event-links\">";
 					for (i = 0; i < links.length; i++) 
 					{
-						displayString += "<li><a href=\"";
+						displayString += "<li>";
 						displayString += links[i];
-						displayString += "\" target=\"_blank\">";
-						displayString += links[i];
-						displayString += "</a></li>";
+						displayString += "</li>";
 					}
 					displayString += "</ul>";
 					displayString += "</div><div class=\"modal-footer\"><button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Close</button></div></div></div></div></div></div>";
@@ -266,6 +257,7 @@
 			<h2>
 				The Privatization of the Space Program and the United States's Space Program
 			</h2>
+			Darin Mao
 		</div>
 		<img src="/images/loading.gif" class="timeline-loading img-responsive">
 		<ul class="timeline">

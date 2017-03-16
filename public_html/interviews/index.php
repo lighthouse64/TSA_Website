@@ -34,7 +34,11 @@
 			<li>How do you plan to supply the crew?</li>
 			<li>What type of training will be required to explore Mars?</li>
 			<li>How will you prepare for accidents that could occur on Mars?</li>
-			
+			<li>How do you believe colinization of Mars will affect its environment?</li>
+			<li>How will the exploration of Mars benefit society?</li>
+			<li>What obstacles does the mission to mars face?</li>
+			<li>What would you consider some of the most important explorations of Mars?</li>
+			<li></li>
 		</ol>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
