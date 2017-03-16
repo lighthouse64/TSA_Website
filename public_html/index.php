@@ -30,16 +30,11 @@
 				Mission To Mars - Announcements
 			</h2>
 		</div>
-		<p>We'll be putting announcements here as we need them.</p>
-		<p>We've finished a bunch of pages, so here's a checklist: </p>
+		<p>This page will be populated with information once the rest of the site is completed.</p>
 		<ul>
 			<li class="done">Privatization</li>
 			<li class="done">Timeline</li>
-			<li>Evolution of Space Vehicles
-				<ul>
-					<li>Manned</li>
-					<li class="done">Unmanned</li>
-				</ul>
+			<li class="done">Evolution of Space Vehicles
 			</li>
 			<li>Career Fields
 				<ul>
