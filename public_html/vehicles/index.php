@@ -51,7 +51,7 @@
 					var description = event.description;
 					var image = event.image;
 					var caption = event.caption;
-					var attribution = event.image-citation;
+					var attribution = event.attribution;
 					var displayString = "<div class=\"panel panel-default\"><div class=\"panel-heading\">";
 					displayString += name;
 					displayString += "</div><div class=\"panel-body\"><figure><img class=\"img-responsive\" src=\"";

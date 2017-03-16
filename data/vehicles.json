@@ -4,7 +4,7 @@
 		"description":"<p>Launched on October 4, 1957, Sputnik amazed the world by being the first satellite to orbit earth.  It was a spherical shaped satellite that was made of aluminum, and it weighed a light amount of 83.6kg.  As well as being light, Sputnik was simple, as it only carried two radios and a thermometer.  </p><p>After being launched, Sputnik lived a short life.  It transmitted radio signals for 21 days, and just 36 days later, Sputnik was destroyed while coming back into the atmosphere.  Even though Sputnik had a small lifespan, it had a major impact, as its launch triggered the start of the space age.</p>",  
 		"image":"/images/sputnik1.jpg",
 		"caption":"An image of the Sptnik 1 orbiting earth.",
-		"image-citation":""
+		"attribution":""
 	},
 	{
 		"name":"Explorer I",
@@ -15,48 +15,48 @@
 		"Even with its short life, Explorer I was a major success, as it taught scientists how satellites behave around earth, and how many cosmic rays exist around earth.  </p>",
 		"image":"/images/explorer1.jpg",
 		"caption":"A picture of Explorer I.",
-		"image-citation":""
+		"attribution":""
 	},
 	{
 		"name":"Mariner 2",
 		"description":"<p>On August 27, 1962, Mariner 2 was launched by its 225N rocket as a satellite for flyby planetary exploration after Mariner 1 failed.  The satellite weighed 202.8 kg and was 3.66m in height. It's mission was to return data on Venus's atmosphere, magnetic field, charged particle environment, and mass. </p><p>Mariner 2 had traditional solar panel wings for a constant supply of power, and it contained 1000 Watt-hour zinc batteries to store energy.  Its transmitter used the antenna dish on it to send and receive signals.  Along with those instruments, the satellite used multiple instruments for recording data, maintaining temperature, and recording data, such as its microwave radiometer.</p><p>With these instruments, the spacecraft discovered that Venus has a hot surface temperatures, a high surface pressure, mostly carbon dioxide for its atmosphere, a layer of clouds at about 60km altitude, and it has no magnetic field.  Estimates on its mass were also inferred.</p>",
 		"image":"/images/mariner2.jpg",
 		"caption":"Mariner 2, Cruising through the Solar System",
-		"image-citation":""
+		"attribution":""
 	},
 	{
 		"name":"Luna 16",
 		"description":"<p>Luna 16, the first robotic probe lander on the moon, launched on September 12, 1970.  It had four legs attached to a cylindrical body with many other tools for studying the lunar mass, such as a drill and an extendable arm.  These were useful in collecting sample soil from the moon, for investigating it at a later time on earth.</p><p>Luna 16 began its descent to the moon on September 20, and it had a successful, soft landing.  About a day later, after it had collected samples, the lander was picked up.  Then, on September 24, it made a safe landing to earth.</p>",
 		"image":"/images/luna16.jpg",
 		"caption":"An image of Luna 16 flying in space",
-		"image-citation":""
+		"attribution":""
 	},
 	{
 		"name":"Mars Sojourner Rover and Pathfinder Lander",
 		"description":"<p>The Mars Pathfinder launched on December 4, 1996, carrying the Sojourner Rover within it.  It's objective was to show that a cost effective mission could be sucessful by only requiring $150 million, after the Viking Mission consumed a much larger sum of money, as well as show that microrovers can be useful.  It had scientific goals of obtaining information on the geology and environment of Mars.</p><p>Many discoveries were made to complete its objective.  In geology, the elemental composition of the minerals on mars were discovered with Oxygen, Silicon, and Iron being the most common.  Temperatures, wind speeds, and air pressure were recorded. Other phenomenon, such as dust tornadoes and water-ice clouds also were observed.</p><p>Together, the Mars Sojourner Rover and Pathfinder Lander made useful discoveries and observations.  Its mission to prove microrovers usefulness and attempt at a cost effective mission were also sucessful.</p>",
 		"image":"/images/sojourner.jpg",
 		"caption":"An image of the Sojourner Rover",
-		"image-citation":""
+		"attribution":""
 	},
 	{
 		"name":"Mars Odyssey",
 		"description":"<p>The Mars Odyssey satellite has significantly contributed to NASA's knowledge of Mars after its launch on April 7, 2001.  Using its three instruments, THEMIS, GRS, and MARIE, this satellite has gathered information on Mars's radiation levels, mapped the surface of the elements on Mars, and even discovered water.  The Odyssey still continues to orbit Mars today, and it could still make new discoveries.</p>",
 		"image":"/images/odyssey.jpg",
 		"caption":"A diagram of the Mars Odyssey",
-		"image-citation":""
+		"attribution":""
 	},
 	{
 		"name":"Curiosity Rover",
 		"description":"<p>On November 26, 2011, the Curiosity Mars Rover was recently sent into space with a mission to find out if Mars could support microbial life.  It has currently found several features, such as sand dunes, rock strata, water, and mineral formations.  One of its discoveries in December was a stream, which has favorable conditions for microbe life.</p><p>The rover runs on wheels and generates power through radioactive plutonium decay in its exploration on Mars.  It analyzes its surroundings and collects data, using the cameras, spectrometers, radiation sensors, environmental sensors, and atmospheric sensors.  With its multiple antennas, Curiosity can then communicate this data or anything in general to places such as earth or the Mars Odyssey Satellite.</p>",
 		"image":"/images/curiosity.jpg",
 		"caption":"A picture of the Curiosity Rover on mars",
-		"image-citation":""
+		"attribution":""
 	},
 	{
 		"name":"InSight",
 		"description":"<p>A proposed mission for the rover, InSight is planned to occur in 2018.  Its mission is to discover the history of mars and study the tectonic activity, as well as the impact of meteors on the planet by investigating through drilling, since Mars seems to have retained history in its crust.  The rover will use its seismometer and heat probe to gather data, as well as carry a camera to look at the environment around the rover.</p>",
 		"image":"/images/insight.jpg",
 		"caption":"A picture of InSight",
-		"image-citation":""
+		"attribution":""
 	}
 ]
