@@ -25,20 +25,20 @@
 				Interviews
 			</h2>
 		</div>
-		<p>In order to gain a deeper understanding of the current situation on the privatization and exploration of Mars, as well as the rest of space, we contacted and interviewed two experts in the field of space exploration. We asked them the following questions:</p>
+		<p>In order to gain a deeper understanding of the current situation on the privatization and exploration of Mars, as well as the rest of space, we contacted and interviewed two individuals related to the field of space exploration. We asked them the following questions:</p>
 		<ol>
-			<li>Why do you believe it is important to reach mars?</li>
-			<li>What will people do once they reach Mars?</li>
-			<li>What about Mars interests you?</li>
-			<li>How do you believe living on Mars will affect astronauts?</li>
-			<li>How do you plan to supply the crew?</li>
-			<li>What type of training will be required to explore Mars?</li>
-			<li>How will you prepare for accidents that could occur on Mars?</li>
-			<li>How do you believe colinization of Mars will affect its environment?</li>
-			<li>How will the exploration of Mars benefit society?</li>
-			<li>What obstacles does the mission to mars face?</li>
-			<li>What would you consider some of the most important explorations of Mars?</li>
-			<li></li>
+			<li>Why do you believe it is important to explore Mars? What benefits are there?</li>
+			<li>Do you think human astronauts will ever reach Mars? If so, when?</li>
+			<li>What obstacles are there, both en route to Mars and on Mars? (Food, water, air, etc.)</li>
+			<li>What scientific operations and explorations are the most important to make on Mars?</li>
+			<li>What special problems does Mars pose to electrical and life-support systems, and to the long-term human health of any potential settlers?</li>
+			<li>What special problems might a manned mission to Mars cause for the planet of Mars? (mention climate change)</li>
+			<li>How will the crew of the mission be supplied? Will supplies be sent in advance, or along with the astronauts?</li>
+			<li>How will the astronauts be trained for such a unique mission?</li>
+			<li>Do you believe that it is important to make an effort to recover astronauts who are sent to the red planet, for use in fundraising and/or scientific use?</li>
+			<li>Is there one group (SpaceX, Mars Society, etc.) you think has an advantage over the others so far?</li>
+			<li>How long do you think it will be before a settlement (at least 500 people) exists on the red planet?</li>
+
 		</ol>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
