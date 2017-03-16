@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<style>
+#bld{
+	font-weight:bold;
+	}	
+</style>	
 <html>
     <head>
 		<!-- 
@@ -75,20 +80,11 @@
 		</p>
 		<div class="vehicles">
 		</div>
-	<div class="panel-heading"><p><h2>Cited Sources (APA)</h2></p></div>
+	<div class="panel-heading"><p><h2>Cited Sources (MLA 8)</h2></p></div>
 	    <div class="panel-body">
-		  <p><b>Sputnik</b></p>
-		    <p>Garber, S. (2007, October 10). Sputnik and The Dawn of the Space Age. Retrieved March 09, 2017, from https://history.nasa.gov/sputnik/</p> 
-		    <p>Greene, N. (2017, March 2). The Shining Little Sphere that Triggered the Space Race. Retrieved March 09, 2017, from https://www.thoughtco.com/sputnik-1-first-artificial-satellite-3071226</p>
-		  <p><b>Explorer 1</b></p>
-		    <p>Explorer-I and Jupiter-C. (n.d.). Retrieved March 09, 2017, from http://history.nasa.gov/sputnik/expinfo.html </p>
-		    <p>N. (2017, March 2). Meet the First U.S. Satellite Sent to Space. Retrieved March 09, 2017, from https://www.thoughtco.com/explorer-1-first-us-satellite-3073486</p>
-		  <p><b>Mariner 2</b></p>
-		    <p>Mariner 2. (n.d.). Retrieved March 3, 2017, from http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A</p>
-		  <p><b>Luna 16</b></p>
-		    <p>Luna 16. (n.d.). Retrieved March 9, 2017, from http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1970-072A </p>
-		  <p><b>Mars Sojourner and Pathfinder</b></p>
-		    <p>Mars Pathfinder. (n.d.). Retrieved March 09, 2017, from http://mars.jpl.nasa.gov/MPF/default.html </p>
+		  <p id ="bld">Sputnik</p>
+		    <p>Garber, Steve. “Sputnik and The Dawn of the Space Age.” NASA, NASA, 10 Oct. 2007, history.nasa.gov/sputnik/. Accessed 16 Mar. 2017. </p>
+	    
 	    </div>
    <?php include("../../includes/footer.php"); ?> 
     </body>
