@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <style>
-#bld{
+.bld{
 	font-weight:bold;
 	}	
 </style>	
@@ -69,7 +69,7 @@
 		//-->
 		</script>
     </head>
-    <body>
+    <body background="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia21260.jpg?itok=AkXrldQ1">
 <?php include("../../includes/navbar.php"); ?>
 	<div class="container">
 		<div class="page-header">
@@ -83,11 +83,29 @@
 		</p>
 		<div class="vehicles">
 		</div>
-	<div class="panel-heading"><p><h2>Cited Sources (MLA 8)</h2></p></div>
+	<div class="panel-heading"><p><h2>Cited Sources (MLA 8)</h2></p>
 	    <div class="panel-body">
 		  <p id ="bld">Sputnik</p>
 		    <p>Garber, Steve. “Sputnik and The Dawn of the Space Age.” NASA, NASA, 10 Oct. 2007, history.nasa.gov/sputnik/. Accessed 16 Mar. 2017. </p>
-	    
+		    
+		    <p class ="bld">Explorer 1</p>
+		   	 <p>“Explorer-I and Jupiter-C.” NASA, NASA, history.nasa.gov/sputnik/expinfo.html. Accessed 23 Mar. 2017. </p>
+		    	 <p>NASA/JPL. “Meet the First U.S. Satellite Sent to Space.” ThoughtCo, ThoughtCo., space.about.com/od/spaceexplorationhistory/p/explorer1.htm. Accessed 23 Mar. 2017. </p>
+		    <p class="bld">Mariner 2</p>
+		    	 <p>“Mariner 2.” NASA, NASA, nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A. Accessed 23 Mar. 2017. </p>    
+		    <p class="bld">Luna 16</p>
+		    	 <p>“Luna 16.” NASA, NASA, nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1970-072A. Accessed 23 Mar. 2017. </p>
+		    <p class="bld">Mars Sojourner Rover and Pathfinder Lander</p>
+		    	 <p>“Mars Pathfinder Mission.” NASA, NASA, mars.jpl.nasa.gov/MPF/mpf/rover.html. Accessed 23 Mar. 2017. </p>
+		    <p class="bld">Mars Odyssey</p>
+		    	 <p>“Overview - Mars Odyssey.” NASA, NASA, mars.jpl.nasa.gov/odyssey/mission/overview/. Accessed 23 Mar. 2017. </p>
+		    <p class="bld">Curiosity Rover</p>
+		    	 <p>Greicius, Tony. “Mars Science Laboratory - Curiosity.” NASA, NASA, 20 Jan. 2015, www.nasa.gov/mission_pages/msl/index.html. Accessed 23 Mar. 2017. </p>
+		    	 <p>Greicius, Tony. “Mars Rock-Ingredient Stew Seen as Plus for Habitability.” NASA, NASA, 13 Dec. 2016, www.nasa.gov/feature/jpl/mars-rock-ingredient-stew-seen-as-plus-for-habitability. Accessed 23 Mar. 2017. </p>
+		    	 <p>“Mars Science Laboratory.” NASA, NASA, mars.jpl.nasa.gov/msl/. Accessed 23 Mar. 2017. </p>
+		    <p class="bld">InSight</p>
+		    	 <p>“Introduction.” NASA, NASA, insight.jpl.nasa.gov/home.cfm. Accessed 23 Mar. 2017. </p>
+		</div>
 	    </div>
    <?php include("../../includes/footer.php"); ?> 
     </body>
