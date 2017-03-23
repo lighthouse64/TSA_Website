@@ -69,7 +69,7 @@
 		//-->
 		</script>
     </head>
-    <body>
+    <body background="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia21260.jpg?itok=AkXrldQ1">
 <?php include("../../includes/navbar.php"); ?>
 	<div class="container">
 		<div class="page-header">
