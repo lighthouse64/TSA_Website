@@ -86,25 +86,25 @@
 	<div class="panel-heading"><p><h2>Cited Sources (MLA 8)</h2></p>
 	    <div class="panel-body">
 		  <p id ="bld">Sputnik</p>
-		    <p>Garber, Steve. “Sputnik and The Dawn of the Space Age.” NASA, NASA, 10 Oct. 2007, history.nasa.gov/sputnik/. Accessed 16 Mar. 2017. </p>
+		    <p>Garber, Steve. “Sputnik and The Dawn of the Space Age.” NASA, NASA, 10 Oct. 2007, <a href="http://history.nasa.gov/sputnik/">http://history.nasa.gov/sputnik/</a>. Accessed 16 Mar. 2017. </p>
 		    
 		    <p class ="bld">Explorer 1</p>
-		   	 <p>“Explorer-I and Jupiter-C.” NASA, NASA, history.nasa.gov/sputnik/expinfo.html. Accessed 23 Mar. 2017. </p>
-		    	 <p>NASA/JPL. “Meet the First U.S. Satellite Sent to Space.” ThoughtCo, ThoughtCo., space.about.com/od/spaceexplorationhistory/p/explorer1.htm. Accessed 23 Mar. 2017. </p>
+		   	 <p>“Explorer-I and Jupiter-C.” NASA, NASA, http://history.nasa.gov/sputnik/expinfo.html. Accessed 23 Mar. 2017. </p>
+		    	 <p>NASA/JPL. “Meet the First U.S. Satellite Sent to Space.” ThoughtCo, ThoughtCo., <a href="http://space.about.com/od/spaceexplorationhistory/p/explorer1.htm">http://space.about.com/od/spaceexplorationhistory/p/explorer1.htm</a>. Accessed 23 Mar. 2017. </p>
 		    <p class="bld">Mariner 2</p>
-		    	 <p>“Mariner 2.” NASA, NASA, nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A. Accessed 23 Mar. 2017. </p>    
+		    	 <p>“Mariner 2.” NASA, NASA, <a href="http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A">http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A</a>. Accessed 23 Mar. 2017. </p>    
 		    <p class="bld">Luna 16</p>
-		    	 <p>“Luna 16.” NASA, NASA, nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1970-072A. Accessed 23 Mar. 2017. </p>
+		    	 <p>“Luna 16.” NASA, NASA, <a href="http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1970-072A">http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1970-072A</a>. Accessed 23 Mar. 2017. </p>
 		    <p class="bld">Mars Sojourner Rover and Pathfinder Lander</p>
-		    	 <p>“Mars Pathfinder Mission.” NASA, NASA, mars.jpl.nasa.gov/MPF/mpf/rover.html. Accessed 23 Mar. 2017. </p>
+		    	 <p>“Mars Pathfinder Mission.” NASA, NASA, <a href="http://mars.jpl.nasa.gov/MPF/mpf/rover.html">http://mars.jpl.nasa.gov/MPF/mpf/rover.html</a>. Accessed 23 Mar. 2017. </p>
 		    <p class="bld">Mars Odyssey</p>
-		    	 <p>“Overview - Mars Odyssey.” NASA, NASA, mars.jpl.nasa.gov/odyssey/mission/overview/. Accessed 23 Mar. 2017. </p>
+		    	 <p>“Overview - Mars Odyssey.” NASA, NASA, <a href="http://mars.jpl.nasa.gov/odyssey/mission/overview/">http://mars.jpl.nasa.gov/odyssey/mission/overview/</a>. Accessed 23 Mar. 2017. </p>
 		    <p class="bld">Curiosity Rover</p>
-		    	 <p>Greicius, Tony. “Mars Science Laboratory - Curiosity.” NASA, NASA, 20 Jan. 2015, www.nasa.gov/mission_pages/msl/index.html. Accessed 23 Mar. 2017. </p>
-		    	 <p>Greicius, Tony. “Mars Rock-Ingredient Stew Seen as Plus for Habitability.” NASA, NASA, 13 Dec. 2016, www.nasa.gov/feature/jpl/mars-rock-ingredient-stew-seen-as-plus-for-habitability. Accessed 23 Mar. 2017. </p>
-		    	 <p>“Mars Science Laboratory.” NASA, NASA, mars.jpl.nasa.gov/msl/. Accessed 23 Mar. 2017. </p>
+		    	 <p>Greicius, Tony. “Mars Science Laboratory - Curiosity.” NASA, NASA, 20 Jan. 2015, <a href="http://www.nasa.gov/mission_pages/msl/index.html">http://www.nasa.gov/mission_pages/msl/index.html</a>. Accessed 23 Mar. 2017. </p>
+		    	 <p>Greicius, Tony. “Mars Rock-Ingredient Stew Seen as Plus for Habitability.” NASA, NASA, 13 Dec. 2016, <a href="http://www.nasa.gov/feature/jpl/mars-rock-ingredient-stew-seen-as-plus-for-habitability">http://www.nasa.gov/feature/jpl/mars-rock-ingredient-stew-seen-as-plus-for-habitability</a>. Accessed 23 Mar. 2017. </p>
+		    	 <p>“Mars Science Laboratory.” NASA, NASA, <a href="http://mars.jpl.nasa.gov/msl/">http://mars.jpl.nasa.gov/msl/</a>. Accessed 23 Mar. 2017. </p>
 		    <p class="bld">InSight</p>
-		    	 <p>“Introduction.” NASA, NASA, insight.jpl.nasa.gov/home.cfm. Accessed 23 Mar. 2017. </p>
+		    	 <p>“Introduction.” NASA, NASA, <a href="http://insight.jpl.nasa.gov/home.cfm">http://insight.jpl.nasa.gov/home.cfm</a>. Accessed 23 Mar. 2017. </p>
 		</div>
 	    </div>
    <?php include("../../includes/footer.php"); ?> 
