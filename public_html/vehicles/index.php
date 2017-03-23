@@ -81,24 +81,24 @@
 	<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-        <h4>Sputnik</h4>
+			<h5>Sputnik</h5>
 		      <li>Garber, Steve. “Sputnik and The Dawn of the Space Age.” NASA, NASA, 10 Oct. 2007, <a href="http://history.nasa.gov/sputnik/">http://history.nasa.gov/sputnik/</a>. Accessed 16 Mar. 2017. </li>
-		    <h4>Explorer 1</h4>
+		    <h5>Explorer 1</h5>
 		   	  <li>“Explorer-I and Jupiter-C.” NASA, NASA, http://history.nasa.gov/sputnik/expinfo.html. Accessed 23 Mar. 2017. </li>
 		      <li>NASA/JPL. “Meet the First U.S. Satellite Sent to Space.” ThoughtCo, ThoughtCo., <a href="http://space.about.com/od/spaceexplorationhistory/p/explorer1.htm">http://space.about.com/od/spaceexplorationhistory/p/explorer1.htm</a>. Accessed 23 Mar. 2017. </li>
-		    <h4>Mariner 2</h4>
+		    <h5>Mariner 2</h5>
 		      <li>“Mariner 2.” NASA, NASA, <a href="http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A">http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A</a>. Accessed 23 Mar. 2017. </li>    
-		    <h4>Luna 16</h4>
+		    <h5>Luna 16</h5>
 		      <li>“Luna 16.” NASA, NASA, <a href="http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1970-072A">http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1970-072A</a>. Accessed 23 Mar. 2017. </li>
-		    <h4>Mars Sojourner Rover and Pathfinder Lander</h4>
+		    <h5>Mars Sojourner Rover and Pathfinder Lander</h5>
 		      <li>“Mars Pathfinder Mission.” NASA, NASA, <a href="http://mars.jpl.nasa.gov/MPF/mpf/rover.html">http://mars.jpl.nasa.gov/MPF/mpf/rover.html</a>. Accessed 23 Mar. 2017. </li>
-		    <h4>Mars Odyssey</h4>
+		    <h5>Mars Odyssey</h5>
 		      <li>“Overview - Mars Odyssey.” NASA, NASA, <a href="http://mars.jpl.nasa.gov/odyssey/mission/overview/">http://mars.jpl.nasa.gov/odyssey/mission/overview/</a>. Accessed 23 Mar. 2017. </li>
-		    <h4>Curiosity Rover</h4>
+		    <h5>Curiosity Rover</h5>
 		      <li>Greicius, Tony. “Mars Science Laboratory - Curiosity.” NASA, NASA, 20 Jan. 2015, <a href="http://www.nasa.gov/mission_pages/msl/index.html">http://www.nasa.gov/mission_pages/msl/index.html</a>. Accessed 23 Mar. 2017. </li>
 		    	<li>Greicius, Tony. “Mars Rock-Ingredient Stew Seen as Plus for Habitability.” NASA, NASA, 13 Dec. 2016, <a href="http://www.nasa.gov/feature/jpl/mars-rock-ingredient-stew-seen-as-plus-for-habitability">http://www.nasa.gov/feature/jpl/mars-rock-ingredient-stew-seen-as-plus-for-habitability</a>. Accessed 23 Mar. 2017. </li>
 		    	<li>“Mars Science Laboratory.” NASA, NASA, <a href="http://mars.jpl.nasa.gov/msl/">http://mars.jpl.nasa.gov/msl/</a>. Accessed 23 Mar. 2017. </li>
-		    <h4>InSight</h4>
+		    <h5>InSight</h5>
 		    	<li>“Introduction.” NASA, NASA, <a href="http://insight.jpl.nasa.gov/home.cfm">http://insight.jpl.nasa.gov/home.cfm</a>. Accessed 23 Mar. 2017. </li>
         </ul>
 		</section>
