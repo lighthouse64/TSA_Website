@@ -20,9 +20,9 @@
 						<li class="<?php if ($_SERVER["PHP_SELF"] == "/index.php"){echo "active";} ?>"><a href="/">Home</a></li>
 						<li class="<?php if ($_SERVER["PHP_SELF"] == "/privatization/index.php"){echo "active";} ?>"><a href="/privatization">Privatization</a></li>
 						<li class="<?php if ($_SERVER["PHP_SELF"] == "/timeline/index.php"){echo "active";} ?>"><a href="/timeline">Timeline</a></li>
-						<li class="<?php if (strpos($_SERVER["PHP_SELF"], "/vehicles/") !== false){echo "active";} ?>"><a href="/vehicles">Evolution of Space Vehicles</a></li>
+						<li class="<?php if (strpos($_SERVER["PHP_SELF"], "/vehicles/") !== false){echo "active";} ?>"><a href="/vehicles">Vehicles</a></li>
 						<li class="<?php if (strpos($_SERVER["PHP_SELF"], "/career/") !== false){echo "active";} ?>"><a href="/career">Career Fields</a></li>
-						<li class="<?php if ($_SERVER["PHP_SELF"] == "/fail/index.php"){echo "active";} ?>"><a href="/fail">What if we fail?</a></li>
+						<li class="<?php if ($_SERVER["PHP_SELF"] == "/fail/index.php"){echo "active";} ?>"><a href="/fail">Failure</a></li>
 						<li class="<?php if (strpos($_SERVER["PHP_SELF"], "/interviews/") !== false){echo "active";} ?>"><a href="/interviews">Interviews</a></li>
 						<li class="<?php if ($_SERVER["PHP_SELF"] == "/resources/index.php"){echo "active";} ?>"><a href="/resources">Resources</a></li>
 					</ul>

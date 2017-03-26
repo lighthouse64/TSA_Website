@@ -118,10 +118,10 @@
     "@screen-xs": "480px",
     "@screen-xs-min": "@screen-xs",
     "@screen-phone": "@screen-xs-min",
-    "@screen-sm": "1150px",
+    "@screen-sm": "1015px",
     "@screen-sm-min": "@screen-sm",
     "@screen-tablet": "@screen-sm-min",
-    "@screen-md": "1150px",
+    "@screen-md": "1015px",
     "@screen-md-min": "@screen-md",
     "@screen-desktop": "@screen-md-min",
     "@screen-lg": "1200px",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=a253d1fb90c082a1e13899e1d2cf2ace"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=b0b3064c98cd2e0b4c8c4bebb9d2142a"
 }
