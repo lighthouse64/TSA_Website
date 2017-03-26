@@ -51,9 +51,13 @@ ul#timeline-events li {
 	border-width: 0 0 0px;
 }
 img.img-responsive {
-	width:100%;
+	width: 100%;
 }
 a {
   overflow-wrap: break-word;
   word-wrap: break-word;
+}
+video {
+  width: 100%;
+  height: auto;
 }
