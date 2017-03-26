@@ -43,16 +43,17 @@
 		<p>Click the links below to download a copy of our Student Copyright Checklist and Plan of Work Log. </p>
 		<div class="panel panel-default">
 			<a href="#"><div class="panel-body">
-				<img src="/images/pdf.jpg" class="fileicon">
+				<img src="/images/pdf.png" class="fileicon">
 				<span class="filelabel">(SCC GOES HERE)</span>
 			</div></a>
 		</div>
 		<div class="panel panel-default">
 			<a href="https://docs.google.com/document/d/1H64WBwB7rC4tFPVkzgN2e6mWpAsdArzRBQeXNx97fZ8/export?format=pdf"><div class="panel-body">
-				<img src="/images/pdf.jpg" class="fileicon">
+				<img src="/images/pdf.png" class="fileicon">
 				<span class="filelabel">Plan of Work Log</span>
 			</div></a>
 		</div>
+		<div style="font-size: 0.5em;">PDF Icon By Ethandcltd (Own work) [<a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3APdflogogt.png">via Wikimedia Commons</a></div>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
     </body>
