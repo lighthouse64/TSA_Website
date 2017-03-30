@@ -85,8 +85,7 @@
 		continue until 2031, when they will launch for the red planet, allowing the crew to get used to the long period of isolation that they will endure 
 		while on their mission. So far, they have plans for the departure of a total of 3 crews, though they have made it clear that if they do succeed, new 
 		crews will begin to launch every 26 months. When it comes to astronaut safety, every time a crew is launched, the supplies and habitats for the next 
-		crew will be launched a few months later, giving a high level of redundancy in case of machine failure or other unforeseen circumstances. Of all the 
-		companies with a clear blueprint for Martian colonization, this group definitely takes 1st place.</p>
+		crew will be launched a few months later, giving a high level of redundancy in case of machine failure or other unforeseen circumstances. Of all the companies with a clear blueprint for Martian colonization, this group is definitely up there in contention.</p>
 		<figure>
 			<img class="img-responsive" src="/images/marssociety.jpg">
 			<figcaption>
