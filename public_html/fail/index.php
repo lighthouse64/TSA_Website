@@ -51,7 +51,7 @@
 		</section>
 		<section>
 			<header><h3>Pros</h3></header>
-			<p>However, there are also many benefits to satying on Earth and not exploring Mars.</p>
+			<p>However, there are also many benefits to staying on Earth and not exploring Mars.</p>
 			<ol>
 				<li>
 					<h5>It's dangerous</h5>
