@@ -54,9 +54,9 @@
 			</a></div>
 		</div>
 		<div class="panel panel-default" id="asdf">
-			<div class="panel-heading">Some other guy we don't have yet</div>
-			<div class="panel-body"><a href="/interviews/another_person">
-				<img src="http://www.geekfill.com/wp-content/uploads/2011/06/8bebi.jpg">
+			<div class="panel-heading">Effie Shaw</div>
+			<div class="panel-body"><a href="/interviews/effieshaw">
+				<img src="/images/effieshaw.jpg">
 			</a></div>
 		</div>
 	</div>
