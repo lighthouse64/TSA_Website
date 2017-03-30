@@ -59,21 +59,21 @@
 		</figure>
 		<p>Ever since humans first gazed up at the stars, we’ve wondered what it’s like to be up there among them. These days, we’re closer than ever to that goal. By 2020-2025, major aerospace companies (i.e. SpaceX) and space-oriented government agencies (i.e. NASA) have predicted that there will he human footprints on the red planet. Numerous possibilities are opened up in this scenario. Chances at scientific research and colonization make this a juicy target.</p>
 		<figure class="left">
-			<img class="img-responsive" src="/images/population.png">
-			<figcaption>
-				A population curve graph.
-				<div class="image-attribution">
-					By El T [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3APopulation_curve.svg">via Wikimedia Commons</a>
-				</div>
-			</figcaption>
-		</figure>
-		<p>The possibilities for scientific research are numerous. A probe or rover can only do a certain amount of experiments, and will eventually break down due to dust storms, equipment malfunction, or just general wear and tear. In short, they only have a limited time span and limited capability. A human on Mars would be able to read the instructions given to him/her, perform an almost unlimited amount of actions and projects, and, naturally, a human will likely last far longer than any robot we have available at this time. In addition, the effects of the Martian atmosphere and gravity will have interesting effects on any astronaut, thereby allowing any future missions to plan for the problems facing potential colonists. There are downsides to this, most notably that they astronauts would need a food-and-waste disposal system, for both nutrients, fecal waste, and CO2/Oxygen. Overall, however, the ability to have a human presence on Mars will signal a huge step forward in our scientific knowledge of the other planets in our solar system.</p>
-		<figure>
 			<img class="img-responsive" src="/images/mer.jpg">
 			<figcaption>
 				An image of a NASA Mars Exploration Rover
 				<div class="image-attribution">
 					By NASA/JPL/Cornell University, Maas Digital LLC [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3ANASA_Mars_Rover.jpg">via Wikimedia Commons</a>
+				</div>
+			</figcaption>
+		</figure>
+		<p>The possibilities for scientific research are numerous. A probe or rover can only do a certain amount of experiments, and will eventually break down due to dust storms, equipment malfunction, or just general wear and tear. In short, they only have a limited time span and limited capability. A human on Mars would be able to read the instructions given to him/her, perform an almost unlimited amount of actions and projects, and, naturally, a human will likely last far longer than any robot we have available at this time. In addition, the effects of the Martian atmosphere and gravity will have interesting effects on any astronaut, thereby allowing any future missions to plan for the problems facing potential colonists. There are downsides to this, most notably that they astronauts would need a food-and-waste disposal system, for both nutrients, fecal waste, and CO2/Oxygen. Overall, however, the ability to have a human presence on Mars will signal a huge step forward in our scientific knowledge of the other planets in our solar system.</p>
+		<figure>
+			<img class="img-responsive" src="/images/population.png">
+			<figcaption>
+				A population curve graph.
+				<div class="image-attribution">
+					By El T [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3APopulation_curve.svg">via Wikimedia Commons</a>
 				</div>
 			</figcaption>
 		</figure>
