@@ -53,7 +53,7 @@
 					<img class="img-responsive" src="/images/brucemccandless.jpg">
 					<figcaption>
 						Astronaut Bruce McCandless &#8545; using a Manned Maneuvering Unit (MMU) on shuttle mission STS-41-B in 1984. 
-						<br>By NASA [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AAstronaut-EVA.jpg">via Wikimedia Commons</a>
+						<div class="image-attribution">By NASA [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AAstronaut-EVA.jpg">via Wikimedia Commons</a></div>
 					</figcaption>
 				</figure>
 				<div class="career-description">Astronauts are the ones who actually go to space. 
@@ -67,6 +67,7 @@
 					<img class="img-responsive" src="/images/chemist.jpg">
 					<figcaption>
 						A chemist at work.
+						<div class="image-attribution">By Argonne National Laboratory [Public Domain], <a href="https://commons.wikimedia.org/wiki/File:Laura_Miller_at_ANL.jpg">via Wikimedia Commons</a></div>
 					</figcaption>
 				</figure>
 				<div class="career-description">Chemists find new ways to build rockets and keep humans healthy in space. 
@@ -80,7 +81,7 @@
 					<img class="img-responsive" src="/images/pcb.jpg">
 					<figcaption>
 						A Printed Circuit Board (PCB). 
-						<br>By Bill Bertram (Bill Bertram) [<a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>, <a href="http://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a> or <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3APCB_Spectrum.jpg">via Wikimedia Commons</a>
+						<div class="image-attribution">By Bill Bertram (Bill Bertram) [<a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>, <a href="http://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a> or <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3APCB_Spectrum.jpg">via Wikimedia Commons</a></div>
 					</figcaption>
 				</figure>
 				<div class="career-description">Electricians keep the electrical aspects of space equipment functioning properly. 
@@ -94,7 +95,7 @@
 					<img class="img-responsive" src="/images/engineer.jpg">
 					<figcaption>
 						Engineers conferring on prototype design. 
-						<br>Bundesarchiv, Bild 183-23805-1665 / CC-BY-SA 3.0 [<a href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0 de</a>], <a href="https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-23805-1665%2C_Ingenieure_mit_Konstruktionsplan.jpg">via Wikimedia Commons</a>
+						<div class="image-attribution">Bundesarchiv, Bild 183-23805-1665 / CC-BY-SA 3.0 [<a href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0 de</a>], <a href="https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-23805-1665%2C_Ingenieure_mit_Konstruktionsplan.jpg">via Wikimedia Commons</a></div>
 					</figcaption>
 				</figure>
 				<div class="career-description">Engineers design and build the complex machines that send spacecraft into space. 
@@ -108,7 +109,7 @@
 					<img class="img-responsive" src="/images/higgsevent.jpg">
 					<figcaption>
 						A simulation of the CMS detector of the Large Hadron Collider.
-						<br>By Lucas Taylor / CERN (http://cdsweb.cern.ch/record/628469) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ACMS_Higgs-event.jpg">via Wikimedia Commons</a>
+						<div class="image-attribution">By Lucas Taylor / CERN (http://cdsweb.cern.ch/record/628469) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ACMS_Higgs-event.jpg">via Wikimedia Commons</a></div>
 					</figcaption>
 				</figure>
 				<div class="career-description">Physicists determine how to properly maneuver a spacecraft to its designated target. 
