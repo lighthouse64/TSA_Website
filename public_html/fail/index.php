@@ -28,7 +28,7 @@
 		</div>
 		<p>Exploring Mars is no doubt a very challenging task, even for the talented minds over at NASA. So there is definitely some chance that we will fail to explore Mars. What will happen?</p>
 		<section>
-			<header><h3>Pros</h3></header>
+			<header><h3>Cons</h3></header>
 			<p>There are many downsides to not exploring Mars.</p>
 			<ol>
 				<li>
