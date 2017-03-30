@@ -103,6 +103,19 @@
 		site, set up in the south of Utah, and have plans for a 1-year simulated mission in the Canadian high arctic, christened the “Mars Arctic 365 Mission”. 
 		As their president Robert Zubrin pointed out during a press conference: <em>“We are much closer today to being able to send humans to Mars than we were to 
 		being able to send men to the Moon in 1961, and we were there eight years later. Given the will, we could have humans on Mars within a decade.”</em></p>
+		<section>
+			<header><h3>Works Cited</h3></header>
+			<ul class="sources">
+				<li>Editors, PM, and Jake Swearingen. “Who'Ll Be the First to Set Foot on Mars?” Popular Mechanics, LifestyleHub, 29 Sept. 2015, <a href="http://www.popularmechanics.com/space/moon-mars/g2191/who-gets-to-mars-first/">www.popularmechanics.com/space/moon-mars/g2191/who-gets-to-mars-first/</a>. Accessed 30 Mar. 2017.</li>
+				<li>“Bigelow Aerospace | BEAM.” Bigelow Aerospace | BEAM, Robert Bigelow, <a href="http://www.bigelowaerospace.com/beam/">www.bigelowaerospace.com/beam/</a>. Accessed 30 Mar. 2017.</li>
+				<li>Press, Agence France. “SpaceX Craft on Way to ISS in First Supply Run.”NDTV Gadgets360.Com, NDTV Gadgets360.Com, 15 Apr. 2013, <a href="http://gadgets.ndtv.com/others/news/spacex-craft-on-way-to-iss-in-first-supply-run-276847">gadgets.ndtv.com/others/news/spacex-craft-on-way-to-iss-in-first-supply-run-276847</a>. Accessed 30 Mar. 2017.</li>
+				<li>“The Mars Society.” The Mars Society, AmazonSmile, <a href="http://www.marssociety.org/">www.marssociety.org/</a>. Accessed 30 Mar. 2017.</li>
+				<li>“Elon Musk.” Forbes, SeaIsland, <a href="http://www.forbes.com/profile/elon-musk/">www.forbes.com/profile/elon-musk/</a>. Accessed 30 Mar. 2017.</li>
+				<li>SpaceX. “Launch Manifest.” SpaceX, SpaceX, <a href="http://www.spacex.com/missions">www.spacex.com/missions</a>. Accessed 30 Mar. 2017.</li>
+				<li>“Roadmap - Mission.” Mars One, Mars One, <a href="http://www.mars-one.com/mission/roadmap">www.mars-one.com/mission/roadmap</a>. Accessed 30 Mar. 2017.</li>
+
+			</ul>
+		</section>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
     </body>
