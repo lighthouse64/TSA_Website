@@ -27,9 +27,9 @@
 			Darin Mao
 		</div>
 		<p>Exploring Mars is no doubt a very challenging task, even for the talented minds over at NASA. So there is definitely some chance that we will fail to explore Mars. What will happen?</p>
-		<section>
-			<header><h3>Cons</h3></header>
-			<p>There are many downsides to not exploring Mars.</p>
+		<section><div class ="panel panel-default">
+			<div class="panel-heading"><header><h3>Cons</h3></header></div>
+			<div class ="panel-body"><p>There are many downsides to not exploring Mars.</p>
 			<ol>
 				<li>
 					<h5>Survival of mankind</h5>
@@ -48,10 +48,11 @@
 					<p>Mars has many natural resources that we can use on both Earth and Mars. By putting humans on Mars we can use the resources to our advantage, and possibly explore even further, without using any resources from Earth.</p>
 				</li>
 			</ol>
-		</section>
-		<section>
-			<header><h3>Pros</h3></header>
-			<p>However, there are also many benefits to satying on Earth and not exploring Mars.</p>
+			</div>
+				</div></section>
+		<section><div class ="panel panel-default">
+			<div class="panel-heading"><header><h3>Pros</h3></header></div>
+			<div class ="panel-body"><p>However, there are also many benefits to satying on Earth and not exploring Mars.</p>
 			<ol>
 				<li>
 					<h5>It's dangerous</h5>
@@ -70,7 +71,8 @@
 					<p>We have many problems here on Earth that require our immediate attention. Examples include poverty, climate change, and war. These issues are becoming more and more apparent in day to day life, and if left unattended, they could destroy the human population before any Martian advancements are made.</p>
 				</li>
 			</ol>
-		</section>
+			</div>
+		</div></section>
 		<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
