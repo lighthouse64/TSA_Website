@@ -30,6 +30,15 @@
 		<section>
 			<header><h3>Cons</h3></header>
 			<p>There are many downsides to not exploring Mars.</p>
+			<figure>
+				<img class="img-responsive" src="/images/polar.jpg">
+				<figcaption>
+					The polar caps on Mars.
+					<div class="image-attribution">
+						By NASA/JPL/MSSS [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AMars_North_Polar_Cap_Instrument_Checkout_MGS_MARCI.jpg">via Wikimedia Commons</a>
+					</div>
+				</figcaption>
+			</figure>
 			<ol>
 				<li>
 					<h5>Survival of mankind</h5>
@@ -52,6 +61,15 @@
 		<section>
 			<header><h3>Pros</h3></header>
 			<p>However, there are also many benefits to staying on Earth and not exploring Mars.</p>
+			<figure>
+				<img class="img-responsive" src="/images/explosion.jpg">
+				<figcaption>
+					Space shuttle Challenger explodes after take-off.
+					<div class="image-attribution">
+						By Kennedy Space Center [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AChallenger_explosion.jpg">via Wikimedia Commons</a>
+					</div>
+				</figcaption>
+			</figure>
 			<ol>
 				<li>
 					<h5>It's dangerous</h5>
