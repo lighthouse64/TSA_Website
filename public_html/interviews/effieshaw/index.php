@@ -22,10 +22,15 @@
 	<div class="container">
 		<div class="page-header">
 			<h2>
-				Second Interview
+				Effie Shaw
 			</h2>
 		</div>
-		<p>We will eventually have a video interview, with an interactive transcript beside/below it.</p>
+		<video poster="/images/effieshaw.jpg" controls>
+			<source src="interview.mp4" type="video/mp4">
+			<track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+			Your browser does not support HTML5 video. Click <a href="interview.mp4">here</a> to download the interview, or click <a href="https://www.youtube.com/watch?v=QmMK4C34YVk">here</a> to watch the interview on YouTube.
+		</video>
+		<p>Effie Shaw is a member of the U.S. Geological Survey. She currently teaches Physical Science and can be considered an expert in celestial bodies.</p>
 	</div>
    <?php include("../../../includes/footer.php"); ?> 
     </body>
