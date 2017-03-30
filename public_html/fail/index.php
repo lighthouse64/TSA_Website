@@ -16,6 +16,24 @@
 		<meta charset="utf-8">
 		<title>Mission To Mars</title>	
 <?php include("../../includes/head.php"); ?>
+		<style type="text/css">
+			figure {
+				width: 100%;
+				background-color: white;
+				border-radius: 5px;
+				padding: 8px;
+			}
+			@media (min-width: 768px) {
+				figure {
+					float: right;
+					width: 30%;
+					margin: 8px;
+				}
+				figure.left {
+					float: left;
+				}
+			}
+		</style>
     </head>
     <body>
 <?php include("../../includes/navbar.php"); ?>

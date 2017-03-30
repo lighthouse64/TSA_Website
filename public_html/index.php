@@ -34,11 +34,6 @@
 				}
 			}
 		</style>
-		<style type="text/css">
-			li.done {
-				text-decoration: line-through;
-			}
-		</style>
     </head>
     <body>
 <?php include("../includes/navbar.php"); ?>
