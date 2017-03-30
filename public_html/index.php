@@ -64,7 +64,7 @@
 		<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">
-				<li>Ben you used MLA 7 you suck</li>
+				<li>“Human Population Calculator.” Human Population Calculator, LivePencil.com, <a href="http://www.metamorphosisalpha.com/ias/population.php">www.metamorphosisalpha.com/ias/population.php</a>. Accessed 30 Mar. 2017.</li>
 			</ul>
 		</section>
 	</div>
