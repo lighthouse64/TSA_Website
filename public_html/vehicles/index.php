@@ -79,9 +79,9 @@
 		<div class="vehicles">
 		</div>
 	<section>
-			<header><h3>Works Cited</h3></header>
-			<ul class="sources">
-        <h4>Sputnik</h4>
+		<header><h3>Works Cited</h3></header>
+		<ul class="sources">
+			<h4>Sputnik</h4>
 		      <li>Garber, Steve. “Sputnik and The Dawn of the Space Age.” NASA, NASA, 10 Oct. 2007, <a href="http://history.nasa.gov/sputnik/">http://history.nasa.gov/sputnik/</a>. Accessed 16 Mar. 2017. </li>
 		    <h4>Explorer 1</h4>
 		   	  <li>“Explorer-I and Jupiter-C.” NASA, NASA, http://history.nasa.gov/sputnik/expinfo.html. Accessed 23 Mar. 2017. </li>
@@ -101,7 +101,8 @@
 		    <h4>InSight</h4>
 		    	<li>“Introduction.” NASA, NASA, <a href="http://insight.jpl.nasa.gov/home.cfm">http://insight.jpl.nasa.gov/home.cfm</a>. Accessed 23 Mar. 2017. </li>
         </ul>
-		</section>
-   <?php include("../../includes/footer.php"); ?> 
+	</section>
+	</div>
+<?php include("../../includes/footer.php"); ?> 
     </body>
 </html>
