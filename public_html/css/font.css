@@ -26,13 +26,6 @@ figcaption {
 section > header > h3 {
 	font-size: 1.2em;
 }
-a {
-	color: white;
-}
-a:hover {
-	color: #ddd;
-	text-decoration: underline;
-}
 figure > figcaption > div.image-attribution {
 	font-size: 0.75em;
 }
