@@ -64,7 +64,7 @@
 			<div class="panel-heading">Chemist</div>
 			<div class="panel-body">
 				<figure>
-					<img class="img-responsive" src="/images/chemist.jpg">
+					<img class="img-responsive" src="/images/chemist1.jpg">
 					<figcaption>
 						A chemist at work.
 						<div class="image-attribution">By Argonne National Laboratory [Public Domain], <a href="https://commons.wikimedia.org/wiki/File:Laura_Miller_at_ANL.jpg">via Wikimedia Commons</a></div>
