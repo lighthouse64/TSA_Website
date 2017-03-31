@@ -70,12 +70,11 @@
 		supplies of a Mars mission. In addition, there Mars Colonial Transporter is due out by the end of the year, and Musk has mentioned that they have a space 
 		suit in the works as well. With a drive to make it their, and the funds, to boot, they’re widely considered to be the top prospect in this growing industry.</p>
 		<figure class="left">
-			<img class="img-responsive" src="/images/marsone.jpg">
+			<img class="img-responsive" src="/images/marsone.png">
 			<figcaption>
-				A model of the proposed Mars One colony 
+				The Mars One Logo.
 				<div class="image-attribution">
-					By Per-Olof Forsberg [<a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>], 
-					<a href="https://www.flickr.com/photos/perolofforsberg/21418170014" target="blank">via Flickr</a>
+					By Studio Jeroen Baars (http://mars-one.com/en/) [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AMars_One_logo.png">via Wikimedia Commons</a>
 				</div>
 			</figcaption>
 		</figure>
