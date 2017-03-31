@@ -48,7 +48,7 @@
 			<figcaption>
 				An image of Mars.
 				<div class="image-attribution">
-					By ESA - European Space Agency & Max-Planck Institute for Solar System Research for OSIRIS Team ESA/MPS/UPD/LAM/IAA/RSSD/INTA/UPM/DASP/IDA [<a href="http://creativecommons.org/licenses/by-sa/3.0-igo">CC BY-SA 3.0-igo</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOSIRIS_Mars_true_color.jpg">via Wikimedia Commons</a>
+					By ESA - European Space Agency & Max-Planck Institute for Solar System Research for OSIRIS Team ESA/MPS/UPD/LAM/IAA/RSSD/INTA/UPM/DASP/IDA [<a href="http://creativecommons.org/licenses/by-sa/3.0/igo">CC BY-SA 3.0-igo</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOSIRIS_Mars_true_color.jpg">via Wikimedia Commons</a>
 				</div>
 			</figcaption>
 		</figure>
