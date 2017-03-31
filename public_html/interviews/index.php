@@ -53,7 +53,7 @@
 				<a href="/interviews/robchalmers">
 					<img src="/images/robchalmers.jpg">
 				</a>
-				<a href="robchalmers/videorelease.pdf" style="font-size: 0.75em; color: white;">Video Release</a>
+				<a href="robchalmers/videorelease.pdf" style="font-size: 0.75em;">Video Release</a>
 			</div>
 		</div>
 		<div class="panel panel-default" id="asdf">
@@ -62,7 +62,7 @@
 				<a href="/interviews/effieshaw">
 					<img src="/images/effieshaw.jpg">
 				</a>
-				<a href="effieshaw/videorelease.pdf" style="font-size: 0.75em; color: white;">Video Release</a>
+				<a href="effieshaw/videorelease.pdf" style="font-size: 0.75em;">Video Release</a>
 			</div>
 		</div>
 	</div>
