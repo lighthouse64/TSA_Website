@@ -31,6 +31,7 @@ figure > figcaption > div.image-attribution {
 }
 ul.sources > li > a {
 	color: white;
+	text-decoration: underline;
 }
 
 ul.sources > li > a:hover {
