@@ -20,7 +20,7 @@
 		<script type="text/javascript">
 		<!--
 			function e(){
-				alert("Congrats on finding this! You've probably been here a while, if you managed to find this. In our team, I do most of the coding, so I just had to include some sort of hidden secret somewhere in the site. \nAnyway, I just wanted to say THANK YOU for looking through our site. We really enjoyed making it and we hope you enjoyed reading it as well. Thank you for your time and your patience.\n-Darin");
+				alert("Congrats on finding this! You've probably been here a while, if you managed to find this. In our team, I do most of the coding, so I just had to include some sort of hidden secret somewhere in the site. \n\nAnyway, I just wanted to say THANK YOU for looking through our site so thoroughly. It's great to know that you put in so much effort to look through every single part, despite having to evaulate so many of these websites. We really enjoyed making this site and we hope you enjoyed reading through it as well. Thank you for your time and your patience.\n\n-Darin");
 			}
 		//-->
 		</script>
