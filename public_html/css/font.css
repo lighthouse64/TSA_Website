@@ -29,3 +29,6 @@ section > header > h3 {
 figure > figcaption > div.image-attribution {
 	font-size: 0.75em;
 }
+ul.sources > li > a {
+	color: white;
+}
