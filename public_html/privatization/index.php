@@ -72,7 +72,7 @@
 		<figure class="left">
 			<img class="img-responsive" src="/images/marsone.png">
 			<figcaption>
-				The Mars One Logo.
+				The Mars One logo.
 				<div class="image-attribution">
 					By Studio Jeroen Baars (http://mars-one.com/en/) [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AMars_One_logo.png">via Wikimedia Commons</a>
 				</div>
