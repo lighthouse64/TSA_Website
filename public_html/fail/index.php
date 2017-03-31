@@ -16,6 +16,24 @@
 		<meta charset="utf-8">
 		<title>Mission To Mars</title>	
 <?php include("../../includes/head.php"); ?>
+		<style type="text/css">
+			figure {
+				width: 100%;
+				background-color: white;
+				border-radius: 5px;
+				padding: 8px;
+			}
+			@media (min-width: 768px) {
+				figure {
+					float: right;
+					width: 30%;
+					margin: 8px;
+				}
+				figure.left {
+					float: left;
+				}
+			}
+		</style>
     </head>
     <body>
 <?php include("../../includes/navbar.php"); ?>
@@ -27,9 +45,18 @@
 			Darin Mao
 		</div>
 		<p>Exploring Mars is no doubt a very challenging task, even for the talented minds over at NASA. So there is definitely some chance that we will fail to explore Mars. What will happen?</p>
-		<section><div class ="panel panel-default">
-			<div class="panel-heading"><header><h3>Cons</h3></header></div>
-			<div class ="panel-body"><p>There are many downsides to not exploring Mars.</p>
+		<section>
+			<header><h3>Cons</h3></header>
+			<p>There are many downsides to not exploring Mars.</p>
+			<figure>
+				<img class="img-responsive" src="/images/polar.jpg">
+				<figcaption>
+					The polar caps on Mars.
+					<div class="image-attribution">
+						By NASA/JPL/MSSS [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AMars_North_Polar_Cap_Instrument_Checkout_MGS_MARCI.jpg">via Wikimedia Commons</a>
+					</div>
+				</figcaption>
+			</figure>
 			<ol>
 				<li>
 					<h5>Survival of mankind</h5>
@@ -48,11 +75,19 @@
 					<p>Mars has many natural resources that we can use on both Earth and Mars. By putting humans on Mars we can use the resources to our advantage, and possibly explore even further, without using any resources from Earth.</p>
 				</li>
 			</ol>
-			</div>
-				</div></section>
-		<section><div class ="panel panel-default">
-			<div class="panel-heading"><header><h3>Pros</h3></header></div>
-			<div class ="panel-body"><p>However, there are also many benefits to satying on Earth and not exploring Mars.</p>
+		</section>
+		<section>
+			<header><h3>Pros</h3></header>
+			<p>However, there are also many benefits to staying on Earth and not exploring Mars.</p>
+			<figure>
+				<img class="img-responsive" src="/images/explosion.jpg">
+				<figcaption>
+					Space shuttle Challenger explodes after take-off.
+					<div class="image-attribution">
+						By Kennedy Space Center [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AChallenger_explosion.jpg">via Wikimedia Commons</a>
+					</div>
+				</figcaption>
+			</figure>
 			<ol>
 				<li>
 					<h5>It's dangerous</h5>
@@ -71,8 +106,7 @@
 					<p>We have many problems here on Earth that require our immediate attention. Examples include poverty, climate change, and war. These issues are becoming more and more apparent in day to day life, and if left unattended, they could destroy the human population before any Martian advancements are made.</p>
 				</li>
 			</ol>
-			</div>
-		</div></section>
+		</section>
 		<section>
 			<header><h3>Works Cited</h3></header>
 			<ul class="sources">

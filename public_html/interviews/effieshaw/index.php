@@ -22,16 +22,16 @@
 	<div class="container">
 		<div class="page-header">
 			<h2>
-				Rob Chalmers
+				Effie Shaw
 			</h2>
 		</div>
-		<video poster="/images/robchalmers.jpg" controls>
+		<video poster="/images/effieshaw.jpg" controls>
 			<source src="interview.mp4" type="video/mp4">
 			<track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
-			Your browser does not support HTML5 video. Click <a href="interview.mp4">here</a> to download the interview, or click <a href="https://www.youtube.com/watch?v=_tQZngtT4DQ">here</a> to watch the interview on YouTube.
+			Your browser does not support HTML5 video. Click <a href="interview.mp4">here</a> to download the interview, or click <a href="https://www.youtube.com/watch?v=QmMK4C34YVk">here</a> to watch the interview on YouTube.
 		</video>
 		<a href="videorelease.pdf" style="font-size: 0.75em; color: white;">Video Release</a>
-		<p>Rob Chalmers is a thermal engineer who works at Goddard Space Flight Center in Greenbelt, Maryland. He has worked on the Sample Analysis at Mars (SAM) instrument suite aboard the Curiosity Rover. He is currently working on the Global Ecosystem Dynamics Investigation (GEDI) Lidar, a program to produce high resolution 3D maps of the Earth's forests.</p>
+		<p>Effie Shaw is a member of the U.S. Geological Survey. She currently teaches Physical Science and can be considered an expert in celestial bodies.</p>
 	</div>
    <?php include("../../../includes/footer.php"); ?> 
     </body>
