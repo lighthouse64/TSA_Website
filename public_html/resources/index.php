@@ -47,7 +47,7 @@
 			<img src="/images/pdf.png" class="fileicon">
 			<span class="filelabel">Plan of Work Log</span>
 		</a>
-		<div style="font-size: 0.5em;">PDF Icon By Ethandcltd (Own work) [<a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3APdflogogt.png">via Wikimedia Commons</a></div>
+		<div style="font-size: 0.5em;">PDF Icon By Ethandcltd (Own work) [<a href="http://creativecommons.org/licenses/by-sa/4.0" style="color: white;">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3APdflogogt.png" style="color: white;">via Wikimedia Commons</a></div>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
     </body>
