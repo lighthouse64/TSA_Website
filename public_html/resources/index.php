@@ -17,17 +17,15 @@
 		<title>Mission To Mars</title>	
 		<?php include("../../includes/head.php"); ?>
 		<style type="text/css">
-			div.panel-body {
-				color: black;
-			}
 			img.fileicon {
-				float: left;
-				width: 10%;
+				width: 6%;
 			}
 			span.filelabel {
-				float: right;
-				width: 85%;
-				font-size: 2em;
+				margin-left: 1.5%;
+				font-size: larger;
+			}
+			a.btn {
+				text-align: left;
 			}
 		</style>
     </head>
@@ -41,18 +39,14 @@
 		</div>
 		<p>The resources used in this website can be found adjacent to the corresponding information. </p>
 		<p>Click the links below to download a copy of our Student Copyright Checklist and Plan of Work Log. </p>
-		<div class="panel panel-default">
-			<a href="#"><div class="panel-body">
-				<img src="/images/pdf.png" class="fileicon">
-				<span class="filelabel">(SCC GOES HERE)</span>
-			</div></a>
-		</div>
-		<div class="panel panel-default">
-			<a href="https://docs.google.com/document/d/1H64WBwB7rC4tFPVkzgN2e6mWpAsdArzRBQeXNx97fZ8/export?format=pdf"><div class="panel-body">
-				<img src="/images/pdf.png" class="fileicon">
-				<span class="filelabel">Plan of Work Log</span>
-			</div></a>
-		</div>
+		<a href="#" class="btn btn-default btn-block btn-lg">
+			<img src="/images/pdf.png" class="fileicon">
+			<span class="filelabel">SCC</span>
+		</a>
+		<a href="https://docs.google.com/document/d/1H64WBwB7rC4tFPVkzgN2e6mWpAsdArzRBQeXNx97fZ8/export?format=pdf" class="btn btn-default btn-block btn-lg">
+			<img src="/images/pdf.png" class="fileicon">
+			<span class="filelabel">Plan of Work Log</span>
+		</a>
 		<div style="font-size: 0.5em;">PDF Icon By Ethandcltd (Own work) [<a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3APdflogogt.png">via Wikimedia Commons</a></div>
 	</div>
 	<?php include("../../includes/footer.php"); ?>    
