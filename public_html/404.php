@@ -17,6 +17,13 @@
 		<meta charset="utf-8">
 		<title>Mission To Mars</title>	
 		<?php include("../includes/head.php"); ?>
+		<script type="text/javascript">
+		<!--
+			function e(){
+				alert("Congrats on finding this! You've probably been here a while, if you managed to find this. In our team, I do most of the coding, so I just had to include some sort of hidden secret somewhere in the site. \nAnyway, I just wanted to say THANK YOU for looking through our site. We really enjoyed making it and we hope you enjoyed reading it as well. Thank you for your time and your patience.\n-Darin");
+			}
+		//-->
+		</script>
     </head>
     <body>
 	<?php include("../includes/navbar.php"); ?>
@@ -26,7 +33,7 @@
 				The requested URL "<?php echo $_SERVER["REQUEST_URI"]; ?>" was not found on this server
 			</h2>
 		</div>
-		<p>Don't stop looking, though! NASA scientists <a href="https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars" style="color: white;">found water on Mars</a> after <i>years</i> of searching!
+		<p>Don't stop looking, though! NASA scientists <a href="https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars" style="color: white; text-decoration: underline;">found water on Mars</a> after <i>years</i> of searching<span onClick="e();">!</span>
 		<br><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/15-195_perspective_2.jpg" style="width:100%;">	   
 	</div>
     <?php include("../includes/footer.php"); ?>    
