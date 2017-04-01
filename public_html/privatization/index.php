@@ -44,12 +44,12 @@
 			</h2>
 			Benjamin Miller
 		</div>
-		<p>Every since NASA has had its budget cut, it has begun to leave the picture. China is a little too late to the party (they first got a man into space
+		<p>Ever since NASA had its budget cut, it has begun to leave the picture. China is a little too late to the party (they first got a man into space
 		in 2003), and the European Space Agency, well, European governments have more to worry about than space. In fact, that’s something that almost every 
 		government on the planet suffers from: they have too much on their plate. With that in mind, private companies have begun to take center stage. 
 		SpaceX, created and headed by Elon Musk, has good odds, seeing as they’ve been doing missions for NASA and other companies since October 2008. The Mars 
 		One team has extensive plans to use established aerospace companies (like SpaceX) to create and develop the necessary technologies for a martian 
-		habitat. Another contender is this department is The Mars Society, who already has a simulated Mars habitat set up in the Utah desert. It remains to 
+		habitat. Another contender in this department is The Mars Society, who already has a simulated Mars habitat set up in the Utah desert. It remains to 
 		be seen which one of these companies will make it to the red planet first.</p>
 		<figure>
 			<img class="img-responsive" src="/images/falcon9.jpg">
@@ -67,8 +67,8 @@
 		the history of NASA. Since then, they’ve completed another 10 for NASA and 17 for other companies and non-American government agencies, creating the 
 		longest list of launches of any space company currently in existence. When it comes to Mars, they’ve made clear their goal to get there, creating a design 
 		for an Interplanetary Transport System, along with designing a rocket that allows for recovery of its boosters, essential when it comes to the limited 
-		supplies of a Mars mission. In addition, there Mars Colonial Transporter is due out by the end of the year, and Musk has mentioned that they have a space 
-		suit in the works as well. With a drive to make it their, and the funds, to boot, they’re widely considered to be the top prospect in this growing industry.</p>
+		supplies of a Mars mission. In addition, the Mars Colonial Transporter is due out by the end of the year, and Musk has mentioned that they have a space 
+		suit in the works as well. With a drive to make it there, and the funds to boot, they’re widely considered to be the top prospect in this growing industry.</p>
 		<figure class="left">
 			<img class="img-responsive" src="/images/marsone.png">
 			<figcaption>
@@ -80,7 +80,7 @@
 		</figure>
 		<p>Mars One, while relatively new on the scene (est. 2011) already has a projected launch date for its first unmanned rover (2026) and for its first 
 		launch of a human crew to Mars (2031). Their timeline includes the launch of a satellite in 2024, the launch of cargo missions and set-up in 2029 and 
-		2030, respectively, and the next giant leap for mankind in 2032. In fact, there hope is for a human crew to begin training full-time by 2017 and 
+		2030, respectively, and the next giant leap for mankind in 2032. In fact, their hope is for a human crew to begin training full-time by 2017 and 
 		continue until 2031, when they will launch for the red planet, allowing the crew to get used to the long period of isolation that they will endure 
 		while on their mission. So far, they have plans for the departure of a total of 3 crews, though they have made it clear that if they do succeed, new 
 		crews will begin to launch every 26 months. When it comes to astronaut safety, every time a crew is launched, the supplies and habitats for the next 
