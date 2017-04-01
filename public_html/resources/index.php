@@ -43,7 +43,7 @@
 			<img src="/images/pdf.png" class="fileicon">
 			<span class="filelabel">SCC</span>
 		</a>
-		<a href="https://docs.google.com/document/d/1H64WBwB7rC4tFPVkzgN2e6mWpAsdArzRBQeXNx97fZ8/export?format=pdf" class="btn btn-default btn-block btn-lg">
+		<a href="planofworklog.pdf" class="btn btn-default btn-block btn-lg">
 			<img src="/images/pdf.png" class="fileicon">
 			<span class="filelabel">Plan of Work Log</span>
 		</a>
