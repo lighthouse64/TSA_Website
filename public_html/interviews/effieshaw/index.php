@@ -31,7 +31,7 @@
 			Your browser does not support HTML5 video. Click <a href="interview.mp4">here</a> to download the interview, or click <a href="https://www.youtube.com/watch?v=QmMK4C34YVk">here</a> to watch the interview on YouTube.
 		</video>
 		<a href="videoconsent.pdf" style="font-size: 0.75em; color: white;">Video Consent</a>
-		<p>Effie Shaw is a member of the U.S. Geological Survey. She currently teaches Physical Science and can be considered an expert in celestial bodies.</p>
+		<p>Effie Shaw is a former member of the U.S. Geological Survey. She currently teaches Physical Science and has a strong background in celestial bodies.</p>
 	</div>
    <?php include("../../../includes/footer.php"); ?> 
     </body>
