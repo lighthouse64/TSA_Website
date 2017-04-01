@@ -39,9 +39,9 @@
 		</div>
 		<p>The resources used in this website can be found adjacent to the corresponding information. </p>
 		<p>Click the links below to download a copy of our Student Copyright Checklist and Plan of Work Log. </p>
-		<a href="#" class="btn btn-default btn-block btn-lg">
+		<a href="studentcopyrightchecklist.pdf" class="btn btn-default btn-block btn-lg">
 			<img src="/images/pdf.png" class="fileicon">
-			<span class="filelabel">SCC</span>
+			<span class="filelabel">Student Copyright Checklist</span>
 		</a>
 		<a href="planofworklog.pdf" class="btn btn-default btn-block btn-lg">
 			<img src="/images/pdf.png" class="fileicon">
